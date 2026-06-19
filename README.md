@@ -1,13 +1,26 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil+Rajput;Full-Stack+Developer;Data+Analyst+%26+ML+Engineer;MCA+@+HBTU+Kanpur)](https://git.io/typing-svg)
+# 👋 Hi, I'm Nikhil Rajput
 
-<img src="https://komarev.com/ghpvc/?username=NikhilRajput-Code&label=Profile%20Views&color=6E40C9&style=flat" alt="profile views" />
+### 🚀 Full-Stack Developer · Data Analyst · ML Engineer
+### 🎓 MCA @ HBTU Kanpur | BCA @ TMU | CGPA: 9.23
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-rajput)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilrajput7017@gmail.com)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=NikhilRajput-Code&color=6E40C9&style=flat-square)
+
+
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://linkedin.com/in/nikhil-rajput
+[
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:nikhilrajput7017@gmail.com)
 
 </div>
 
