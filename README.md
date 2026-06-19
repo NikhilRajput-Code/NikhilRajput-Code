@@ -7,11 +7,8 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=NikhilRajput-Code&color=6E40C9&style=flat-square)
 
 
-
-[
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
