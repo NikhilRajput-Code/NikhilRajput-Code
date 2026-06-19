@@ -15,7 +15,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/nikhil-rajput
+](https://www.linkedin.com/in/nikhil-rajput-b8951924a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 [
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
