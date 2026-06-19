@@ -143,7 +143,7 @@ class NikhilRajput:
 ```
 LeetCode / TUF / GFG    ████████████████████░░░░   200+ Problems Solved
 Arrays & Strings        ██████████████████████░░   Strong
-Trees & Graphs          ████████████████████░░░░   Strong  
+Trees & Graphs          ████████████████████░░░░   Improving 
 Dynamic Programming     ████████████████░░░░░░░░   Improving
 System Design           ████████████░░░░░░░░░░░░   Learning
 ```
