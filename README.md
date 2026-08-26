@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nikhil Rajput
 
-### 🚀 Full-Stack Developer · Data Analyst · ML Engineer
+### 🚀 AI Engineer · LLM's · ML Engineer
 ### 🎓 MCA @ HBTU Kanpur | BCA @ TMU | CGPA: 9.23
 
 
