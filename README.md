@@ -29,7 +29,7 @@
 class NikhilRajput:
     def __init__(self):
         self.name       = "Nikhil Rajput"
-        self.role       = ["Full-Stack Developer", "Data Analyst", "ML Engineer"]
+        self.role       = ["AI Engineer", "LLM's", "ML Engineer"]
         self.education  = "MCA @ HBTU Kanpur (CGPA: 9.23) | BCA @ TMU (CGPA: 9.57)"
         self.location   = "Kanpur, Uttar Pradesh, India 🇮🇳"
         self.email      = "nikhilrajput7017@gmail.com"
